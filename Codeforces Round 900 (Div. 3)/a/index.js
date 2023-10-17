@@ -1,7 +1,6 @@
 // https://codeforces.com/contest/1878/problem/A
 const { readline, print } = require('@ip-algorithmics/codeforces-io');
 
-
 "use strict";
 
 const lines = parseInt(readline());
@@ -22,3 +21,4 @@ for (let line = 0; line < lines; line++) {
 
     print(ans);
 }
+
