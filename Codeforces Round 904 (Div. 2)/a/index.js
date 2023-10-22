@@ -1,4 +1,4 @@
-// https://codeforces.com/contest/1878/problem/A
+// https://codeforces.com/contest/1884/problem/A
 
 const { readline, print} = require('@ip-algorithmics/codeforces-io');
 
